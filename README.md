@@ -19,3 +19,34 @@ Custom Graph Input:
   
 Predefined Graphs:
 * Option to visualize graph algorithms on a predefined graph.
+
+## Installation:
+* Python 3.7 or higher
+* Pygame: Pygame is required to run the visualizer. If you don't have it installed, you can install it using pip:
+* pip install pygame
+
+
+## Cloning the Repository
+* git clone https://github.com/your-username/algorithm-visualizer.git
+cd algorithm-visualizer
+
+## How to Run
+* python main.py
+
+## Usage
+
+### Sorting Algorithms
+1. From the main menu, choose "Sorting Algorithms".
+2. Select one of the sorting algorithms: Bubble Sort, Insertion Sort, or Selection Sort.
+3. Choose whether to enter data manually or have random data generated for you.
+4. Watch the algorithm visualize the sorting process.
+5. 
+### Graph Algorithms
+1. From the main menu, choose "Graph Algorithms".
+2. Select one of the graph traversal algorithms: Breadth-First Search (BFS) or Depth-First Search (DFS).
+3. Choose whether to use a custom graph or a predefined graph.
+4.Custom Graph: Enter nodes and edges manually. The nodes will be splattered across the screen for visual appeal.
+
+### Predefined Graph:
+1. A default graph will be used.
+2. Watch as the algorithm traverses the graph.
