@@ -27,7 +27,7 @@ Predefined Graphs:
 
 
 ## Cloning the Repository
-* git clone https://github.com/your-username/algorithm-visualizer.git
+* git clone https://github.com/Rami-Si7/Algorithm-Visualizer.git
 cd algorithm-visualizer
 
 ## How to Run
