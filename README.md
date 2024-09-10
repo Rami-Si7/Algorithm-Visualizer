@@ -10,10 +10,12 @@ Sorting Algorithms:
 Graph Algorithms:
 * Breadth-First Search (BFS)
 * Depth-First Search (DFS)
+  
 Custom Graph Input:
 * Users can input custom nodes and edges, and the nodes will be splattered randomly across the screen for visualization.
 * Prevents duplicate nodes and edges.
 * Allows users to define as many edges as possible based on the number of nodes.
 * Visually appealing "splatter" effect to spread nodes across the screen.
+  
 Predefined Graphs:
 * Option to visualize graph algorithms on a predefined graph.
