@@ -40,7 +40,7 @@ cd algorithm-visualizer
 2. Select one of the sorting algorithms: Bubble Sort, Insertion Sort, or Selection Sort.
 3. Choose whether to enter data manually or have random data generated for you.
 4. Watch the algorithm visualize the sorting process.
-5. 
+   
 ### Graph Algorithms
 1. From the main menu, choose "Graph Algorithms".
 2. Select one of the graph traversal algorithms: Breadth-First Search (BFS) or Depth-First Search (DFS).
