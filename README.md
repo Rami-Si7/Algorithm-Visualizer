@@ -45,7 +45,7 @@ cd algorithm-visualizer
 1. From the main menu, choose "Graph Algorithms".
 2. Select one of the graph traversal algorithms: Breadth-First Search (BFS) or Depth-First Search (DFS).
 3. Choose whether to use a custom graph or a predefined graph.
-4.Custom Graph: Enter nodes and edges manually. The nodes will be splattered across the screen for visual appeal.
+4. Custom Graph: Enter nodes and edges manually. The nodes will be splattered across the screen for visual appeal.
 
 ### Predefined Graph:
 1. A default graph will be used.
